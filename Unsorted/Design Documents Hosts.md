@@ -1,4 +1,7 @@
-# Thoughts on Design Documents
+# Design Documents Hosts
+
+This document features thoughts on various hosts for collaborating on design documents.
+
 
 ## Overview
 
